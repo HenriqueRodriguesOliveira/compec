@@ -4,25 +4,28 @@
 </div>
 </br></br>
 
-## Sobre o Projeto
-O aplicativo Compac tem como fundamento criar e organizar as tabelas que contém as informações sobre as pesagens das vacas, raças, genêros, valor total e a média dos valores. Além de salvar os dados, poderá tirar fotos e criar PDF da tabela.
+## Metas
+> O aplicativo Compac tem como fundamento criar e organizar as tabelas que contém as informações sobre as pesagens das vacas, raças, genêros, valor total e a média dos valores. Além de salvar os dados, poderá tirar fotos e criar PDF da tabela.
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 - [x] Design System.
 - [ ] Loading...
 
-## Requisitos
+## 💻 Pré-requisitos
  * IDE de sua escolha. Exemplo: VSCode, Android Studio...
  * Java 17
  * Node.js
  * Android Studio
 
-## Instalação
+## 🚀 Instalando o aplicativo Compec
+Para instalar o Compec, siga estas etapas:
 1. Copiei o link do projeto que está no Github.
 2. Instale o Git.
 3. No CMD digite `git LinkDoProjetoGithub`.
 4. Configure a sua máquina de acordo com os requisitos solicitado acima.
 
-## Inicializando o projeto
-Após seguir todo o passo a passo para configuração da máquina, basta digitar esses comandos no terminal:
+## ☕ Usando o App Compec
+Para usar o Compec, siga estas etapas:
 1. `cd compec`
 2. `npm install` *Basta digitar esse código uma única vez, pois irá instalar o node_modules.
 3. `npx react-native run-android`
